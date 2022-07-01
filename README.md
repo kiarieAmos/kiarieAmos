@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kiarieAmos
 - 👀 I’m interested in Android development, Web development and algorithms
 - 🌱 I’m currently learning Android development
-- 💞️ I’m looking to collaborate on node JS projects that aim to solve problems in sub-sharan Africa.
+- 💞️ I’m looking to collaborate on android projects in Kotlin and Java.
 - 📫 Email me at amosmkiarie@gmail.com
 
 <!---
