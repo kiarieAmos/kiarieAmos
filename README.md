@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @kiarieAmos
-- 👀 I’m interested in Android development, Web development and algorithms
-- 🌱 I’m currently learning Android development
-- 💞️ I’m looking to collaborate on android-Java and Python projecs.
+I jut finished my College IT course and waiting on graduation.
+- 👀 I’m interested in Android development, Web development machine learning and web development.
+- 🌱 I’m currently learning Python, Machine learning and web development.
+- 💞️ I’m looking to collaborate on machine learning and Python projects.
 - 📫 Email me at amosmkiarie@gmail.com
 
-<!---
-kiarieAmos/kiarieAmos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
