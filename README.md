@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **@amosmkiarie@gmail.com**
 
-< 📄 Know about my experiences [https://kiarieamos.github.io/](https://kiarieamos.github.io/)>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
