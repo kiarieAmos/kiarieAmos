@@ -1,13 +1,13 @@
 <h1 align="center">Hi , I'm Kiarie Amos</h1>
 <h3 align="center">A passionate Systems and back-end developer from Nairobi Kenya</h3>
 
-- 🌱 I’m currently learning **PYQT, Bootstrap and BASH.**
+- 🌱 I’m currently Working as a Business Analyst where I **Design, Test  and SUpport Enterprise Solutions.**
 
-- 💬 Ask me about **#Linux, Python, #Proxmox and PYQT**
+- 💬 Ask me about **#Linux, #Proxmox, #Apex, and #Javascript**
 
 - 📫 How to reach me **@amosmkiarie@gmail.com**
 
-- 📄 Know about my experiences [https://kiarieamos.github.io/](https://kiarieamos.github.io/)
+< 📄 Know about my experiences [https://kiarieamos.github.io/](https://kiarieamos.github.io/)>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
