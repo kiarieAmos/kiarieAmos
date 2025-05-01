@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Kiarie Amos</h1>
 <h3 align="center">A passionate Systems and back-end developer from Nairobi Kenya</h3>
 
-- 🌱 I’m currently Working as a Business Analyst where I **Design, Test  and SUpport Enterprise Solutions.**
+- 🌱 I’m currently working as a Business Analyst where I **Design, Test,  and Support Enterprise Solutions.**
 
 - 💬 Ask me about **#Linux, #Proxmox, #Apex, and #Javascript**
 
