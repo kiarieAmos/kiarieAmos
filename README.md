@@ -1,11 +1,11 @@
 <h1 align="center">Hi , I'm Kiarie Amos</h1>
-<h3 align="center">A passionate Systems and back-end developer from Nairobi Kenya</h3>
+<h3 align="center">I build cool stuff and improve stuff on the computer.</h3>
 
 - 🌱 I’m currently working as a Business Analyst where I **Design, Test,  and Support Enterprise Solutions.**
 
-- 💬 Ask me about **#Linux, #Proxmox, #Apex, and #Javascript**
+- 💬 Ask me about **#Linux, #Proxmox, #Python and #Javascript**
 
-- 📫 How to reach me **@amosmkiarie@gmail.com**
+- 📫 How to reach me **ask around**
 
 
 <h3 align="left">Connect with me:</h3>
