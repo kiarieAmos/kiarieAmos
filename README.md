@@ -1,9 +1,9 @@
 <h1 align="center">Hi , I'm Kiarie Amos</h1>
-<h3 align="center">I build cool stuff and improve stuff on the computer.</h3>
+<h3 align="center">I Believe That Everything is Figouratable.</h3>
 
 - 🌱 I’m currently working as a Business Analyst where I **Design, Test,  and Support Enterprise Solutions.**
 
-- 💬 Ask me about **#Linux, #Proxmox, #Python and #Javascript**
+- 💬 Ask me about **#Linux, #Docker, #Python #PostMan and #Javascript**
 
 - 📫 How to reach me **ask around**
 
