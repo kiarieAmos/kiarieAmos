@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Kiarie Amos</h1>
 <h3 align="center">I Believe That Everything is Figouratable.</h3>
 
-- 🌱 I’m currently working as a Business Analyst where I **Design, Test,  and Support Enterprise Solutions.**
+- 🌱 I’m currently working as a Systems Analyst where I **Design, Test,  and Support Enterprise Solutions.**
 
 - 💬 Ask me about **#Linux, #Docker, #Python #PostMan and #Javascript**
 
