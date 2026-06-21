@@ -1,5 +1,5 @@
 <h1 align="center">Hi , my name is Kiarie Amos</h1>
-<h3 align="center">I Believe That Everything is Figouratable.</h3>
+<h3 align="center">Products Exist at the intersection between people, business and technology!.</h3>
 
 - 🌱 I’m currently working as a Product Business Analyst where I **Design, Test,  and Analyse Enterprise Solutions.**
 
