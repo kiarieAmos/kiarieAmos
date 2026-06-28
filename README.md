@@ -6,7 +6,7 @@
 - 🌱 I enjoy a good cup of coffee, Homelabbing and data engineering. Recenty I have picked up a facsination with drones :) we'll see how that goes.
 
 
-- 💬 Let's chat about **#Linux, #Docker, #Kebernetes, #Python #PostMan and #Hadoop**
+- 💬 Let's chat about **#Linux, #Docker, #Kebernetes & #Airflow
 
 
 
