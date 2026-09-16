@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently working as a Product Business Analyst where I **Design, Test,  and Analyse Enterprise Solutions.**
 
-- 🌱 I enjoy a good cup of coffee, Homelabbing and data engineering. Recenty I have picked up a facsination with drones :) we'll see how that goes.
+- 🌱 I enjoy a good cup of coffee, Homelabbing and data engineering.
 
 
 - 💬 Let's chat about #Linux, #Docker, #Kebernetes & #Airflow
