@@ -6,7 +6,7 @@
 - 🌱 I enjoy a good cup of coffee, Homelabbing and data engineering.
 
 
-- 💬 Let's chat about #Linux, #Docker, #Kebernetes & #Airflow
+- 💬 Let's chat about #Python #Linux, #Docker, #Kebernetes & #Airflow
 
 
 
